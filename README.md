@@ -1,2 +1,2 @@
-# HelloWorld
-Hi! First time on GitHub UwU
+# Hello-World
+Hi, first time on GitHub UwU
